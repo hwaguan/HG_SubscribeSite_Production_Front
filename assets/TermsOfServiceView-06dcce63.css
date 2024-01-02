@@ -1,0 +1,1 @@
+.serviceMainContainer{display:grid;grid-template-columns:1fr var(--main-container-width) 1fr}.serviceMainContainer .TOSBody{padding:30px 0;letter-spacing:.2rem}.serviceMainContainer .TOSBody .TOSTitle{padding-left:10px;padding-bottom:20px!important;margin-bottom:20px;border-bottom:1px rgb(210,210,210) dashed}
