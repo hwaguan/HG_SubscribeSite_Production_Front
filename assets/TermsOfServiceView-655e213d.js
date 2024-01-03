@@ -1,0 +1,1 @@
+import{d as t,o as n,c as i,a as e,i as o,P as a}from"./index-ef497ece.js";const s={class:"serviceMainContainer"},r=e("div",null,null,-1),d={class:"TOSBody"},c=e("div",{class:"TOSTitle"},[e("h3",null,"服務條款")],-1),l=e("div",null,null,-1),u=t({__name:"TermsOfServiceView",setup(p){return(_,m)=>(n(),i("div",s,[r,e("div",d,[c,o(a)]),l]))}});export{u as default};
